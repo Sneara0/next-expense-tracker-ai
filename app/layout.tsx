@@ -37,8 +37,9 @@ export default function RootLayout({
    <ClerkThemeProvider>
           
           <Navbar />
-          <Footer/>
+          
           {children}
+          <Footer/>
            </ClerkThemeProvider>
 
           </ThemeProvider>
