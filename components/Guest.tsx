@@ -223,7 +223,7 @@ const Guest = () => {
                   </div>
                   <div>
                     <div className='font-bold text-gray-900 dark:text-gray-100 text-sm sm:text-base'>
-                      John D.
+                      Mehrima.
                     </div>
                     <div className='text-xs sm:text-sm text-gray-500 dark:text-gray-400'>
                       Verified User
